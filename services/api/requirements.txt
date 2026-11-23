@@ -1,0 +1,38 @@
+aiofiles==25.1.0
+annotated-doc==0.0.7
+annotated-types==0.8.0
+anyio==4.16.0
+certifi==2026.11.20
+click==8.5.1
+fastapi==0.165.0
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.20
+opentelemetry-api==1.45.2
+pydantic==2.14.4
+pydantic_core==2.50.5
+python-multipart==0.0.34
+starlette==1.10.0
+typing-inspection==0.4.5
+typing_extensions==4.16.0
+uvicorn==0.54.0
+yt-dlp==2026.10.26
+# Required to instance variable fonts into static per-weight files so
+# libass/fontconfig can resolve an exact weight.
+fonttools==4.68.0
+# Transcription: word-level timestamps for the karaoke caption editor.
+# `av` must stay <19: faster-whisper calls av.open(metadata_errors=...),
+# which PyAV removed in 19.0.
+faster-whisper==1.2.1
+av<19
+nvidia-cublas-cu12; (platform_system == "Linux" and platform_machine in "x86_64 aarch64") or (platform_system == "Windows" and platform_machine == "AMD64")
+nvidia-cudnn-cu12>=9,<10; (platform_system == "Linux" and platform_machine in "x86_64 aarch64") or (platform_system == "Windows" and platform_machine == "AMD64")
+# Computer vision for smart face crop, speaker detection & layout analysis
+opencv-python-headless==4.10.0.84
+# Test dependencies
+pytest==9.2.0
+# Optional: local token-usage compression for coding agents.
+# See scripts/setup_headroom.sh. The [proxy] extra is needed for the proxy
+# server, [code] for the AST-aware code compressor.
+# headroom-ai[proxy,code]==0.45.0

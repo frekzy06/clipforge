@@ -1,0 +1,57 @@
+# ClipForge - ignore generated media, caches and build output.
+
+# Dependencies & Virtual Environments
+node_modules/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Next.js & Frontend build output
+apps/web/.next/
+apps/web/out/
+apps/web/.turbo/
+apps/web/*.tsbuildinfo
+.npm/
+
+# Local media, databases, and generated artifacts (never commit user media or databases)
+services/api/storage/uploads/
+services/api/storage/exports/
+services/api/storage/models/
+services/api/storage/*.db
+services/api/storage/*.db-journal
+services/api/storage/*.db-wal
+services/api/storage/*.db-shm
+services/api/storage/*.json
+services/api/storage/clipforge.db*
+
+# Installed font binaries and licenses fetched at runtime
+services/api/storage/fonts/files/
+services/api/storage/fonts/licenses/
+services/api/storage/fonts/manifest.json
+services/api/storage/fonts/fonts.css
+assets/fonts/upstream_tree.json
+
+# Test, coverage, and tooling output
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.headroom/
+.clinerules/
+
+# Local environment & secrets (STRICT - prevents key leaks)
+.env
+.env.*
+*.env
+**/.env*
+!services/api/.env.example
+
+# OS generated files (Windows & macOS)
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk

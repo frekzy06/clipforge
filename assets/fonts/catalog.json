@@ -1,0 +1,1111 @@
+{
+  "schema_version": 1,
+  "source": "google/fonts",
+  "source_repo": "https://github.com/google/fonts",
+  "families": [
+    {
+      "id": "anton",
+      "family": "Anton",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/anton",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/anton/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "Anton-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "bebas-neue",
+      "family": "Bebas Neue",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/bebasneue",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bebasneue/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "BebasNeue-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "bangers",
+      "family": "Bangers",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/bangers",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bangers/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "Bangers-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "archivo-black",
+      "family": "Archivo Black",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/archivoblack",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/archivoblack/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "ArchivoBlack-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "oswald",
+      "family": "Oswald",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/oswald",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/oswald/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Oswald[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "teko",
+      "family": "Teko",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/teko",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/teko/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Teko[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "league-spartan",
+      "family": "League Spartan",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/leaguespartan",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/leaguespartan/",
+      "weights": [
+        400,
+        700,
+        900
+      ],
+      "sources": [
+        {
+          "file": "LeagueSpartan[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "staatliches",
+      "family": "Staatliches",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/staatliches",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/staatliches/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "Staatliches-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "bungee",
+      "family": "Bungee",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/bungee",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bungee/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "Bungee-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "lilita-one",
+      "family": "Lilita One",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/lilitaone",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lilitaone/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "LilitaOne-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "titan-one",
+      "family": "Titan One",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/titanone",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/titanone/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "TitanOne-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "luckiest-guy",
+      "family": "Luckiest Guy",
+      "category": "Display",
+      "license": "Apache-2.0",
+      "license_file": "LICENSE.txt",
+      "source_dir": "apache/luckiestguy",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/apache/luckiestguy/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "LuckiestGuy-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "russo-one",
+      "family": "Russo One",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/russoone",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/russoone/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "RussoOne-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "black-ops-one",
+      "family": "Black Ops One",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/blackopsone",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/blackopsone/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "BlackOpsOne-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "righteous",
+      "family": "Righteous",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/righteous",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/righteous/",
+      "weights": [
+        400
+      ],
+      "sources": [
+        {
+          "file": "Righteous-Regular.ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "saira-condensed",
+      "family": "Saira Condensed",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/sairacondensed",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/sairacondensed/",
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "sources": [
+        {
+          "file": "SairaCondensed-Regular.ttf",
+          "weight": 400,
+          "variable": false
+        },
+        {
+          "file": "SairaCondensed-Medium.ttf",
+          "weight": 500,
+          "variable": false
+        },
+        {
+          "file": "SairaCondensed-SemiBold.ttf",
+          "weight": 600,
+          "variable": false
+        },
+        {
+          "file": "SairaCondensed-Bold.ttf",
+          "weight": 700,
+          "variable": false
+        },
+        {
+          "file": "SairaCondensed-ExtraBold.ttf",
+          "weight": 800,
+          "variable": false
+        },
+        {
+          "file": "SairaCondensed-Black.ttf",
+          "weight": 900,
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "chakra-petch",
+      "family": "Chakra Petch",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/chakrapetch",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/",
+      "weights": [
+        400,
+        500,
+        600,
+        700
+      ],
+      "sources": [
+        {
+          "file": "ChakraPetch-Regular.ttf",
+          "weight": 400,
+          "variable": false
+        },
+        {
+          "file": "ChakraPetch-Medium.ttf",
+          "weight": 500,
+          "variable": false
+        },
+        {
+          "file": "ChakraPetch-SemiBold.ttf",
+          "weight": 600,
+          "variable": false
+        },
+        {
+          "file": "ChakraPetch-Bold.ttf",
+          "weight": 700,
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "barlow-condensed",
+      "family": "Barlow Condensed",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/barlowcondensed",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/",
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "sources": [
+        {
+          "file": "BarlowCondensed-Regular.ttf",
+          "weight": 400,
+          "variable": false
+        },
+        {
+          "file": "BarlowCondensed-Medium.ttf",
+          "weight": 500,
+          "variable": false
+        },
+        {
+          "file": "BarlowCondensed-SemiBold.ttf",
+          "weight": 600,
+          "variable": false
+        },
+        {
+          "file": "BarlowCondensed-Bold.ttf",
+          "weight": 700,
+          "variable": false
+        },
+        {
+          "file": "BarlowCondensed-ExtraBold.ttf",
+          "weight": 800,
+          "variable": false
+        },
+        {
+          "file": "BarlowCondensed-Black.ttf",
+          "weight": 900,
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "rajdhani",
+      "family": "Rajdhani",
+      "category": "Display",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/rajdhani",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/",
+      "weights": [
+        400,
+        500,
+        600,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Rajdhani-Regular.ttf",
+          "weight": 400,
+          "variable": false
+        },
+        {
+          "file": "Rajdhani-Medium.ttf",
+          "weight": 500,
+          "variable": false
+        },
+        {
+          "file": "Rajdhani-SemiBold.ttf",
+          "weight": 600,
+          "variable": false
+        },
+        {
+          "file": "Rajdhani-Bold.ttf",
+          "weight": 700,
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "inter",
+      "family": "Inter",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/inter",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Inter[opsz,wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "montserrat",
+      "family": "Montserrat",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/montserrat",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/",
+      "weights": [
+        400,
+        700,
+        900
+      ],
+      "sources": [
+        {
+          "file": "Montserrat[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "dm-sans",
+      "family": "DM Sans",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/dmsans",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "DMSans[opsz,wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "manrope",
+      "family": "Manrope",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/manrope",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Manrope[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "roboto",
+      "family": "Roboto",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/roboto",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/roboto/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Roboto[wdth,wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "outfit",
+      "family": "Outfit",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/outfit",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/outfit/",
+      "weights": [
+        400,
+        700,
+        900
+      ],
+      "sources": [
+        {
+          "file": "Outfit[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "urbanist",
+      "family": "Urbanist",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/urbanist",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/urbanist/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Urbanist[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "nunito-sans",
+      "family": "Nunito Sans",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/nunitosans",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunitosans/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "NunitoSans[YTLC,opsz,wdth,wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "plus-jakarta-sans",
+      "family": "Plus Jakarta Sans",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/plusjakartasans",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/plusjakartasans/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "PlusJakartaSans[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "poppins",
+      "family": "Poppins",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/poppins",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/",
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "sources": [
+        {
+          "file": "Poppins-Regular.ttf",
+          "weight": 400,
+          "variable": false
+        },
+        {
+          "file": "Poppins-Medium.ttf",
+          "weight": 500,
+          "variable": false
+        },
+        {
+          "file": "Poppins-SemiBold.ttf",
+          "weight": 600,
+          "variable": false
+        },
+        {
+          "file": "Poppins-Bold.ttf",
+          "weight": 700,
+          "variable": false
+        },
+        {
+          "file": "Poppins-ExtraBold.ttf",
+          "weight": 800,
+          "variable": false
+        },
+        {
+          "file": "Poppins-Black.ttf",
+          "weight": 900,
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "kanit",
+      "family": "Kanit",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/kanit",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/",
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "sources": [
+        {
+          "file": "Kanit-Regular.ttf",
+          "weight": 400,
+          "variable": false
+        },
+        {
+          "file": "Kanit-Medium.ttf",
+          "weight": 500,
+          "variable": false
+        },
+        {
+          "file": "Kanit-SemiBold.ttf",
+          "weight": 600,
+          "variable": false
+        },
+        {
+          "file": "Kanit-Bold.ttf",
+          "weight": 700,
+          "variable": false
+        },
+        {
+          "file": "Kanit-ExtraBold.ttf",
+          "weight": 800,
+          "variable": false
+        },
+        {
+          "file": "Kanit-Black.ttf",
+          "weight": 900,
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "fira-sans",
+      "family": "Fira Sans",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/firasans",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/firasans/",
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        900
+      ],
+      "sources": [
+        {
+          "file": "FiraSans-Regular.ttf",
+          "weight": 400,
+          "variable": false
+        },
+        {
+          "file": "FiraSans-Medium.ttf",
+          "weight": 500,
+          "variable": false
+        },
+        {
+          "file": "FiraSans-SemiBold.ttf",
+          "weight": 600,
+          "variable": false
+        },
+        {
+          "file": "FiraSans-Bold.ttf",
+          "weight": 700,
+          "variable": false
+        },
+        {
+          "file": "FiraSans-Black.ttf",
+          "weight": 900,
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "work-sans",
+      "family": "Work Sans",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/worksans",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/worksans/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "WorkSans[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "rubik",
+      "family": "Rubik",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/rubik",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/rubik/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Rubik[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "space-grotesk",
+      "family": "Space Grotesk",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/spacegrotesk",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/spacegrotesk/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "SpaceGrotesk[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "exo-2",
+      "family": "Exo 2",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/exo2",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/exo2/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Exo2[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "sora",
+      "family": "Sora",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/sora",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/sora/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Sora[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "fredoka",
+      "family": "Fredoka",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/fredoka",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/fredoka/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Fredoka[wdth,wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "baloo-2",
+      "family": "Baloo 2",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/baloo2",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/baloo2/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Baloo2[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "noto-sans",
+      "family": "Noto Sans",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/notosans",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "NotoSans[wdth,wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "noto-sans-devanagari",
+      "family": "Noto Sans Devanagari",
+      "category": "Sans Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/notosansdevanagari",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansdevanagari/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "NotoSansDevanagari[wdth,wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "playfair-display",
+      "family": "Playfair Display",
+      "category": "Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/playfairdisplay",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/playfairdisplay/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "PlayfairDisplay[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "cinzel",
+      "family": "Cinzel",
+      "category": "Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/cinzel",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Cinzel[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "cormorant-garamond",
+      "family": "Cormorant Garamond",
+      "category": "Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/cormorantgaramond",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "CormorantGaramond[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "libre-baskerville",
+      "family": "Libre Baskerville",
+      "category": "Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/librebaskerville",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/librebaskerville/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "LibreBaskerville[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "lora",
+      "family": "Lora",
+      "category": "Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/lora",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lora/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Lora[wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "merriweather",
+      "family": "Merriweather",
+      "category": "Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/merriweather",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/merriweather/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "Merriweather[opsz,wdth,wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "bodoni-moda",
+      "family": "Bodoni Moda",
+      "category": "Serif",
+      "license": "OFL-1.1",
+      "license_file": "OFL.txt",
+      "source_dir": "ofl/bodonimoda",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/",
+      "weights": [
+        400,
+        700
+      ],
+      "sources": [
+        {
+          "file": "BodoniModa[opsz,wght].ttf",
+          "weight": null,
+          "variable": true
+        }
+      ]
+    }
+  ]
+}
